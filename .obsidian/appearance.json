@@ -2,8 +2,8 @@
   "baseFontSize": 16,
   "cssTheme": "Obsidian gruvbox",
   "theme": "system",
-  "textFontFamily": "Inter",
-  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Arial Narrow",
+  "interfaceFontFamily": "Arial Narrow",
   "accentColor": "",
-  "monospaceFontFamily": "DejaVu Sans Mono"
+  "monospaceFontFamily": "Arial Narrow"
 }

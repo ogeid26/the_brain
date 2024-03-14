@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a4638d5e78cf36",
+        "id": "8fd36d9c3aee8f97",
         "type": "tabs",
         "children": [
           {
-            "id": "f11ced6f31557b5f",
+            "id": "4a6428c164f45b84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "variado/vocal chain ableton.md",
+                "file": "materias/diseño de sistemas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "variado/vocal chain ableton.md",
+                "file": "materias/diseño de sistemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,13 +107,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "4f7c9fb5d182fe62",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,10 +133,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f11ced6f31557b5f",
+  "active": "4a6428c164f45b84",
   "lastOpenFiles": [
-    "rym.md",
+    "materias/diseño de sistemas.md",
+    "materias/tde.md",
+    "materias/electrónica-informática.md",
+    "canvas/Untitled 1.canvas",
+    "materias/factor humano.md",
     "variado/vocal chain ableton.md",
+    "rym.md",
     "phi/Kant.md",
     "variado/términos-filosofía.md",
     "variado/scaruffi.md",
@@ -142,17 +155,12 @@
     "musica/artistas/M.I.A.md",
     "musica/artistas/Soto Asa.md",
     "materias/dsi.md",
-    "materias/electrónica-informática.md",
-    "materias/diseño de sistemas.md",
     "materias/teología 2.md",
-    "materias/tde.md",
     "materias/metaversos.md",
-    "materias/factor humano.md",
     "cine/directores/luc-besson.md",
     "cine/directores/christopher-nolan.md",
     "cine/directores/alex-garland.md",
     "daily-notes/2023-08-11.md",
-    "daily-notes/2023-08-17.md",
     "materias/~syncthing~teología 2.sync-conflict-20230811-153233-GTZIR3D.md.tmp",
     "todos",
     "canvas/Untitled.canvas",
