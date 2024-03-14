@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ccc49950b875ceb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a195b0515a2689c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pensamientos/ensayo_musica_material.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b08a12ebcae8cdfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b939344424ad5a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9647f73b95cd2e50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "95638623e2bc095c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239
+  },
+  "right": {
+    "id": "36197b5438029a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "2346deb23723e237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07fea12ed3e8828b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pensamientos/ensayo_musica_material.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7a195b0515a2689c",
+  "lastOpenFiles": [
+    "pensamientos/gobierno-empresa.md",
+    "pensamientos/ensayo_musica_material.md",
+    "phi/Kant.md",
+    "phi/Descartes.md",
+    "bias de kpop.md",
+    "quotes.md",
+    "scaruffi.md",
+    "términos-filosofía.md",
+    "epifanías.md",
+    "agarrafrases.md"
+  ]
+}
