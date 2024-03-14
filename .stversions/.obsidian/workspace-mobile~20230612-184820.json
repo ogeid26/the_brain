@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "ccc49950b875ceb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1768fdc2c98e6d24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a195b0515a2689c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "templates/kanban-template.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13070ddf134a289e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dbc8e5ec9718fbcf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "897d30965f66a604",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "eb5eed1959663981",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5daf877ed6690bbd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "174b92fd6de6c203",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "templates/kanban-template.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "7a195b0515a2689c",
+  "lastOpenFiles": [
+    "musica/artistas/Dengue Dengue Dengue.md",
+    "templates/kanban-template.md",
+    "templates/libro-template.md",
+    "proyectos",
+    "templates/autor-template.md",
+    "musica/artistas/SpaceGhostPurrp.md",
+    "musica/artistas/umru.md",
+    "rym.md",
+    "cine/directores/christopher-nolan.md",
+    "musica/albumes/Y3Y2.md",
+    "escritos/poemas/anatidae.md",
+    "musica/artistas/Jihyo.md",
+    "musica/artistas/Black Kray.md",
+    "personal/cuentas bancarias.md",
+    "musica/artistas/Sophie.md",
+    "escritos/ensayo musica material.md",
+    "escritos/comunicación.md",
+    "escritos/Untitled",
+    "phi/Descartes.md",
+    "escritos/contemplación y jugador 9.md",
+    "cine/directores",
+    "musica/artistas/Soto Asa.md",
+    "escritos/desconexión.md",
+    "variado/vocal chain ableton.md",
+    "personal",
+    "escritos/cambio.md",
+    "variado/quotes.md",
+    "variado/scaruffi.md",
+    "variado/epifanías.md",
+    "variado/agarrafrases.md",
+    "variado",
+    "musica/artistas",
+    "musica/albumes",
+    "musica",
+    "libros/autores",
+    "cine"
+  ]
+}

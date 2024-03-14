@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "ccc49950b875ceb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfefcac46f00e329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e75dbdc597ae022",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "proyectos/queue-app.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b08a12ebcae8cdfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b939344424ad5a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9647f73b95cd2e50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95638623e2bc095c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "y3y",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d22d7e895eecf813",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239
+  },
+  "right": {
+    "id": "36197b5438029a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "2346deb23723e237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07fea12ed3e8828b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "proyectos/queue-app.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c1c1e71d7bfe559",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "0e75dbdc597ae022",
+  "lastOpenFiles": [
+    "templates/autor-template.md",
+    "Iniciar proyecto.md",
+    "templates/kanban-template.md",
+    "charlas/seguridad-lima.md",
+    "lectura/libros/against-the-web.md",
+    "personal/cuentas bancarias.md",
+    "lectura/libros",
+    "proyectos/queue-app.md",
+    "proyectos/queue-app.sync-conflict-20230612-184950-HI5GM3I.md",
+    "charlas/deforestacion-latam.md",
+    "templates/artista-template.md",
+    "templates/kanban-template.sync-conflict-20230612-184740-HI5GM3I.md",
+    "lectura/autores/acosta-christopher.md",
+    "lectura/autores/harari-yuval-noah.md",
+    "lectura/libros/el-utltimo-dictador.md",
+    "lectura/libros/utopia-for-realists.md",
+    "lectura/libros/mototaxi.md",
+    "lectura/libros/difficult-women.md",
+    "lectura/autores/lewis-helen.md",
+    "lectura/autores/godoy-alejandro.md",
+    "lectura/autores/caballero-victor.md",
+    "lectura/autores/brooks-michael.md",
+    "lectura/autores/bregman-rutger.md",
+    "lectura/libros/secretos-del-tunel.md",
+    "lectura/libros/sapiens.md",
+    "lectura/libros/plata-como-cancha.md",
+    "lectura/libros/cyberspace-cyberbodies-cyberpunk.md",
+    "lectura/autores",
+    "lectura",
+    "proyectos",
+    "musica/ideas",
+    "escritos/articulos",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "variado",
+    "musica/albumes",
+    "musica/artistas"
+  ]
+}

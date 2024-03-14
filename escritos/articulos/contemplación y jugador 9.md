@@ -1,0 +1,14 @@
+Estaba regresando a mi casa después de un fin de semana y escuché esta canción: Jugador 9 de [[Soto Asa]]. Me tocó profundamente. Como muchas cosas en la vida, no me chocó por lo que es, sino por lo que significa, o a lo que me hacer acordar. Para fuera, era Diego en 2023 escuchando música en mi teléfono. Para adentro, había regresado al 2015. Al 2016. A un taxi de regreso a mi casa con Luis en octubre de 2017, a otro taxi yendo a la otra punta de la ciudad porque era el único plan que había. 
+
+Era el peak del trap latino, o por lo menos del trap latino de los Bad Bunny con el pelo corto y Ozuna y Arcangel (a veces me sigue sorprendiendo lo ubicuo que es el trap en el mundo ahora), y aunque me gustaba un poco el reggaetón, sentía que no podía entender el género. No podía entender algunas cosas porque yo preferiría la contemplación por sobre la acción, prefería quedarme con la duda y los inacabables posibles escenarios antes que buscar soluciones. Y qué te cuento, encontré algunas canciones que justamente se sentían contemplativas!
+
+- No Tellin' de Drake, pero en verdad solo la segunda mitad, que comienza en 2:51. Es como una nube de recuerdos y figuras grises que van respirando con el beat. Esta canción me hace acordar a una vez que fui a una fiesta en La Molina como a las 11 de la noche y usé Uber Pool. Estuve con 3 desconocidos por como 40 minutos cuando el viaje a mi destino eran como 15, porque el conductor se desvió para dejar a los demás lmao.
+- Soy Peor, de Bad Bunny. O sea sí, es una canción de despecho, pero la canta un Bad Bunny herido, resentido, que no es capaz de entenderse a sí mismo quizá, y eso me pareció muy interesante cuando la escuché por primera vez.
+
+Y hay un par más de las que no me acuerdo. Ahora escucho Jugador 9 y me sorprende la rapidez con la que se hila ante mí un momento tan específico de mi vida. Como si hubiera pasado ayer, se pone frente de mí toda una ciudad, un tiempo, y un espíritu pasado: carteles de promociones de Ripley, de rebajas en Hiraoka, y de campañas a la alcaldía de gente que en mi vida había visto, que pasaban rápidamente frente a mis ojos, mientras el taxi en el que iba avanzaba por la Javier Prado (era gracioso porque ir borracho era toda una experiencia distinta).  Amo la música porque permite capturar escenas, reconstruir pequeños ‘espíritus’ de personas con las que has tenido experiencias muy parecidas en dos lugares distintos del mundo: te permite conectar con un extraño. Hay cosas que pensaba que solo yo había vivido, pero la manera en que conecté con esta canción de Soto Asa, que salió en 2021, me demuestra que no es así, porque tienes que saber lo que es ser como yo y estar donde estoy para hacer canciones como esta. Aparte tiene barrazas miren:
+
+> Dile que la quiero pero que me quiera a mí también
+
+>Voy por carretera, sin señales, ya tu sabes, la pinté
+
+> Tú estás viendo números que yo no consigo ver.

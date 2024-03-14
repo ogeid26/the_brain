@@ -1,0 +1,2000 @@
+# Naturaleza social del hombre (PPT1)
+
+## Doctrina social de la iglesia: 
+
+Incluye al Magisterio de la iglesia: son las enseñanzas que tiene la iglesia. Se trata de lo que enseña el Papa o los obispos. Hace 2000 años que la iglesia está enseñando. Orienta el actuar de la persona en la sociedad, para que se viva en paz.
+
+La DSI orienta el actuar de la persona en la sociedad para lograr una sociedad más humana, que la persona se pueda perfeccionar en ella y evitar lo que no lleve a este fin. La Iglesia es experta en humanidad. Lleva mucho tiempo enseñando. Se funda para ayudar a la gente a que se vaya al cielo. 
+
+Los lineamientos de la DSI son: 
+
+1.  Fin del hombre: salvación
+2.  La naturaleza del hombre
+3.  Sus derechos
+
+## La persona en la DSI
+
+-   Cada hombre es la imagen viva de Dios: incomparable dignidad del hombre
+-   Toda la vida social es acción de la persona humana: centralidad de la persona humaTna en todos los ámbitos de la sociedad
+-   “La sociedad humana es por tanto objeto de la enseñanza social de la Iglesia desde el momento en que ella no se encuentra ni fuera ni sobre los hombres socialmente unidos, sino que existe exclusivamente por ellos y, por consiguiente, para ellos.”
+
+## Persona
+
+La persona es un ser dialógico (viene de diálogo): dimensión social de la persona; relación con Dios y con las demás personas. Siempre tenemos contacto con los demás, no podemos vivir sin los demás. 
+
+Es el corazón y centro de la DSI: tutelar la dignidad de la persona y denunciar realidades incompatibles a esta dignidad. La dignidad de la persona es el principio de la doctrina social de la iglesia, todo se apoya en eso. Todos somos dignos.
+
+  
+
+Fundamento DSI → Dignidad de la persona humana: creación a imagen y semejanza de Dios → Apertura del hombre a la verdad y de adherir a ella haciendo uso de su libertad. La persona es digna en sí misma “Por haber sido hecho a imagen y semejanza de Dios, el ser humano tiene la dignidad de PERSONA; no es solamente algo sino alguien.”. Es un ser digno, es un valor en sí mismo. No puede ser instrumentalizada. 
+
+Ejemplos de instrumentalización de personas: Empleados en negro, trata de blancas, gente trabajando en talleres clandestinos. 
+
+## Persona digna en sentido radical
+
+#### → Consecuencias:
+
+-   Perfección intrínseca y constitutiva de la persona.
+-   Es un valor en sí misma: No puede ser instrumentalizada.
+-   Tiene un valor absoluto.
+-   Igualdad radical varón y mujer.
+-   Irrepetible e insustituible.
+-   La dignidad de la persona: Fundamento de los derechos humanos.
+
+#### Persona
+
+-   Por su dignidad radical:
+-   Todo hombre vale porque es hombre, no por lo que tiene
+-   No puede ser tratado como una cosa
+-   Único e irrepetible
+-   Llamado a un fin trascendente
+-   Con cuerpo y alma:
+-   Tiene inteligencia y sabiduría
+-   Con conciencia moral
+-   Libe
+#### La persona humana en la DSI
+
+-   Hombre y mujer: idéntica dignidad e igual valor.
+    
+
+-   Particular participación del poder creador de Dios: la vida.
+    
+
+-   Hombre y mujer: se realizan a sí mismos a través del don sincero de sí.
+    
+
+-   Particular vocación a la vida.
+    
+
+-   También en relación a las demás criaturas:
+    
+
+-   Someterlas y gozar de ellas.
+    
+-   No es una libertad de explotación arbitraria.
+    
+
+-   La persona se conoce: puede reflexionar sobre sí misma.
+    
+
+## Derechos de la persona
+-   Su raíz
+	-   La misma dignidad de todas las personas
+-   Su fuente última
+	-   Su dignidad esencial.
+	-   No dependen de la ley ni de la voluntad del legislador.
+-   Formulación
+	-   Relativamente reciente, aunque desde el Decálogo en adelante la Iglesia lo ha enseñado.
+	-   Progresivamente aceptados por la comunidad internacional.
+
+La iglesia entiende a los derechos humanos: la gente se apoya en la ley positiva, se fundamenta en la ley natural, la ley que está impresa en cada persona. La ley natural nace de Dios. Ley natural moral que nos hace vivir de una manera determinada impuesta por Dios. 
+
+  
+  
+
+#### Concepción cristiana de los derechos humanos
+
+Ley eterna → Ley divino positiva → Ley natural (participación de la ley eterna en la criatura racional; permite discernir el bien y el mal, la verdad y la mentira) → Derecho natural (indica lo adecuado, lo que conviene a la persona)
+
+#### Derechos del hombre
+
+-   Dignidad de la persona: fundamento inmediato
+    
+-   Dios: fundamento último
+    
+-   Se derivan de la ley natural: derecho natural (fundamento de los derechos humanos)
+    
+
+-   “Los derechos humanos no son otra cosa que la lógica manifestación de las necesidades que la persona debe satisfacer para lograr su plenitud, y se extienden por tanto a todos los aspectos de la vida humana” (JPII, 16-V-1988)
+    
+
+#### DDHH – Naturaleza
+
+-   Ética: exigencias naturales
+    
+
+-   Deben ser reconocidas a todo hombre en la convivencia social
+    
+-   Es debido a cada persona por su condición de persona
+    
+
+-   Jurídica: es necesaria formulación jurídica positiva
+    
+
+-   Declaración de los derechos humanos ONU
+    
+-   Formulación jurídica en cada país
+    
+
+#### Características
+
+→ Fundamentales: son indispensables para cualquier relación interpersonal. Es fundamental para la convivencia
+
+-   Manifiestan la naturaleza del hombre;
+    
+-   Son fundamento de las relaciones interpersonales.
+    
+
+→ Naturales: Fundamentados en la ley natural, no resultado de culturas o concesiones sociales o políticas.
+
+→ Universales: para todos. Todos tenemos estos derechos humanos básicos. Todos tenemos los mismos derechos solo que en algunos lados no son respetados.
+
+→ Inviolables: No pueden ser suprimidos. Su violación sería atentar contra la dignidad de la persona
+
+→ Inalienables: No pueden ser suprimidos.
+
+→ Irrenunciables:
+
+-   Aún por el propio sujeto: ej. eutanasia. 
+    
+-   Son anteriores al propio sujeto.
+    
+
+→ Jerarquizados: Unos pueden ceder ante otros. No todos son igualmente importantes.
+
+→ Correlativos: A cada derecho le corresponde un deber. Ej: derecho a la vida-deber de conservarla.
+
+#### Tipos de DDHH
+
+El derecho a la libertad religiosa, es el segundo derecho después del derecho a la vida.
+
+→ Personales:
+
+-   Derecho a la vida
+    
+-   Derecho a la libertad religiosa
+    
+-   A seguir la propia conciencia
+    
+-   A poseer personalidad jurídica.
+    
+-   A la libertad de educación y cultura.
+    
+-   A la buena reputación.
+    
+-   A la libre elección de estado.
+    
+
+→ Derechos sociales, económicos y políticos:
+
+-   A formar una familia.
+    
+-   A educar a los hijos de acuerdo a su conciencia.
+    
+-   De expresión.
+    
+-   De información.
+    
+-   De acceder a la educación y a la cultura.
+    
+-   A tener un trabajo digno.
+    
+-   A la propiedad privada y su uso.
+    
+-   De asociación.
+    
+-   De seguridad jurídica.
+    
+
+  
+
+Derechos humanos
+
+-   Tutela de los DDHH:
+    
+
+-   “Condición necesaria y garantía segura para el desarrollo del hombre y de todos los hombres” (SRS. n. 44)
+    
+
+-   Juan XXIII:
+    
+
+-   “El bien común consiste principalmente en la defensa de los derechos y deberes de la persona humana” (PT)
+    
+
+  
+
+Si no se respetan los DDHH se pierde la capacidad para actuar de acuerdo al Bien Común.
+
+  
+
+Derecho a la vida
+
+-   Primero y principal derecho humano
+    
+
+-   Sin este no existen los demás.
+    
+-   Lo ha defendido siempre la Iglesia.
+    
+-   Sólo Dios da la vida y sólo Él puede quitarla.
+    
+
+-   Sacralidad de la vida humana
+    
+
+-   Los hombres no pueden disponer de este don a su arbitrio (investigación, etc.)
+    
+
+-   Asociados a este derecho:
+    
+
+-   Derecho a la integridad física
+    
+-   Derecho a los medios necesarios para una vida digna.
+    
+-   Derecho al desarrollo
+    
+-   Derecho al uso de bienes
+    
+-   Derecho a la seguridad 
+    
+
+-   Tienen prioridad sobre los otros derechos.
+    
+
+  
+
+Derecho a la libertad religiosa
+
+-   Todos los hombres deben estar inmunes de coacción para obrar en materia religiosa. 
+    
+
+-   No se puede obligar a nadie a actuar contra su conciencia (en privado y en público, solo o asociado).
+    
+
+-   Derecho fundamental, vinculado a la dignidad humana
+    
+-   No es “libertad para decidir acerca de Dios”
+    
+
+  
+  
+
+ Lo debe tutelar el Estado:
+
+-   Debe estar promulgado por la ley civil.
+    
+
+-   No siempre se respeta. 
+    
+-   No es un derecho ilimitado:
+    
+
+-   Está en concordancia con el Bien Común
+    
+
+-   Es fuente y síntesis de los demás DDHH (JP II):
+    
+
+-   Implica la relación con Dios.
+    
+-   Permite a la persona dar un sentido último a su vida. 
+    
+
+  
+
+Deberes del hombre
+
+-   Los derechos implican deberes.
+    
+-   En la actualidad:
+    
+
+-   Parcialidad en la cultura: Se habla de “derechos” pero no se explican los “deberes” que cada uno conlleva.
+    
+
+→ Deberes correlativos
+
+-   DDHH están correlacionados con deberes
+    
+-   «Quienes, al reivindicar sus derechos, olvidan por completo sus deberes o no les dan la importancia debida, se asemejan a los que derriban con una mano lo que con la otra construyen» (J XXIII, PT)
+    
+-   Derechos individuales desvinculados de los deberes:
+    
+
+-   Dan lugar a exigencias ilimitadas
+    
+
+-   Los deberes delimitan los derechos:
+    
+
+-   Remiten al marco antropológico y ético en el que se insertan los mismos derechos
+    
+
+  
+
+-   Juan XXIII:
+    
+
+-   Al derecho a la existencia corresponde el deber de conservarla;
+    
+-   Al derecho a un decoroso nivel de vida corresponde el vivir con decoro;
+    
+-   Al derecho a buscar la verdad corresponde el deber buscarla cada día con más profundidad;
+    
+-   Al derecho propio corresponde el deber de respetar los derechos ajenos.
+    
+
+# Sociabilidad humana (PPT2)
+
+#### PERSONA Y SOCIEDAD
+
+-   Sociedad
+    
+
+-   Es posterior a la persona:
+    
+-   No existe sin la persona.
+    
+
+-   Medio para alcanzar el fin debido a la persona.
+    
+
+-   “Tensión” entre dimensión individual y dimensión social en la misma persona.
+    
+
+-   Bien común por encima del individual.
+    
+
+#### Sociabilidad humana
+
+-   Involucra a todos los sectores de la vida humana.
+    
+-   Tiende a instaurar relaciones sociales en los diversos ámbitos:
+    
+
+-   Favorecer su pleno desarrollo.
+    
+
+-   No se agota en la esfera política o comercial.
+    
+-   El elemento espiritual es primordial.
+    
+-   Sociabilidad humana:
+    
+
+-   Lleva a establecer asociaciones diversas para fines concretos.
+    
+
+-   FAMILIAS
+    
+-   ASOCIACIONES
+    
+-   CIUDAD
+    
+-   ESTADO 
+    
+-   COMUNIDAD INTERNACIONAL
+    
+
+  
+
+-   La persona es un ser social.
+    
+-   La vida en sociedad es específica de las personas: Las personas no se desarrollan “en solitario”, la vida social no es algo exterior al hombre.
+    
+-   No es uniforme: Cada persona lo desarrolla de manera diversa.
+    
+
+-   Expresión: diferentes asociaciones → aportan al bien común
+    
+
+-   Sociedad civil: expresión primaria de la sociedad humana
+    
+-   Sociedad política: para alcanzar el bien común
+    
+
+#### Sociedad
+
+-   “CONJUNTO DE PERSONAS LIGADAS DE MANERA ORGÁNICA POR UN PRINCIPIO DE UNIDAD QUE SUPERA A CADA UNA DE ELLAS” (CEC n. 1880)
+    
+-   Implica:
+    
+
+-   Deberes para con la comunidad de que forma parte.
+    
+-   Obligación de respetar a las autoridades encargadas del bien común de esas sociedades.
+    
+
+-   Las Sociedades naturales (familia, estado) son necesarias para el desarrollo de la persona
+    
+
+-   Ejerce importante influencia en la vida de las personas.
+    
+-   Deterioro que genera una sociedad defectuosamente organizada
+    
+
+-   Comportamiento personal depende, de algún modo, de la estructura social.
+    
+
+-   Desarrollo de la persona y Crecimiento de la sociedad: Se influyen mutuamente.
+    
+-   Progreso técnico y cultural:
+    
+
+-   Por sí sólo no logra edificar la sociedad humana.
+    
+
+#### La persona
+
+Visiones actuales de la persona:
+
+-   Determinista:
+    
+
+-   Se niega la libertad humana
+    
+-   El hombre no es dueño de su conducta sino víctima de fuerzas superiores (horóscopo, adivinación, etc)
+    
+
+-   Psicologista:
+    
+
+-   El hombre es víctima de su instinto
+    
+-   Su conducta es respuesta a los estímulos de la psiquis.
+    
+-   Se niega o anula la libertad
+    
+
+-   Consumista:
+    
+
+-   La persona es un engranaje de una máquina que produce y consume
+    
+-   Valores espirituales reemplazados por poseer
+    
+
+-   Liberal:
+    
+
+-   La felicidad se basa en logros económicos
+    
+
+-   Alcanzados aún a costa del sufrimiento de otros
+    
+
+-   Se privilegia la libertad individual por encima de las exigencias sociales, etc.
+    
+
+-   Marxista:
+    
+
+-   Se enfatiza el interés colectivo por encima de las personas
+    
+-   Se niegan derechos personales.
+    
+
+-   Estatista:
+    
+
+-   Se limitan las libertades individuales
+    
+
+  
+
+#### Persona – Sociedad
+
+-   Bien de la persona y bien de la sociedad no se contraponen:
+    
+
+-   Son complementarios y se apoyan mutuamente;
+    
+-   La sociedad es para la persona; 
+    
+-   A su vez, la persona puede y debe esforzarse y sacrificar algunos bienes personales, para edificar una “buena sociedad”
+    
+
+-   El hombre, ser social por naturaleza
+    
+-   Vivimos en sociedad:
+    
+
+-   Trabajo: actividad social
+    
+-   Progreso material
+    
+-   Progreso espiritual
+    
+
+-   Aporte al Bien Común: obligación de todos. “Todos los hombres y todas las entidades intermedias tienen la obligación de aportar al Bien Común” Juan XXIII – Pacem in terris, n. 53
+    
+
+  
+
+#### Sociedad civil
+
+-   Compuesta por red de relaciones sociales: individuos y grupos buscan su propio desarrollo
+    
+-   Se asocian para:
+    
+
+-   Expresar sus ideas
+    
+-   Hacer frente a necesidades fundamentales
+    
+-   Favorecer sus propios intereses
+    
+-   Da a la sociedad civil una gran capacidad de iniciativas
+    
+
+-   Tercer sector
+    
+
+-   Sector privado no lucrativo
+    
+-   Compuesto por:
+    
+
+-   ONG
+    
+-   Iglesias
+    
+-   Asociaciones civiles, etc.
+    
+
+-   Buscan mejorar la sociedad de forma desinteresada
+    
+
+#### Asociaciones en el ámbito civil
+
+-   Son cuerpos intermedios.
+    
+-   Responden a la natural sociabilidad humana.
+    
+-   Gozan de ciertos derechos naturales, inalienables, universales.
+    
+-   El respeto de estos derechos favorece:
+    
+
+-   El ejercicio de la libertad 
+    
+-   El respeto por la dignidad de la persona.
+    
+
+-   Permite el desarrollo de la sociedad
+    
+
+#### Riesgos
+
+Realidad heterogénea, diversos intereses
+
+-   Conflictos de intereses
+    
+-   Violencia
+    
+-   Prevalencia del mayor sobre el más débil
+    
+
+Problema: Sociedad civil no llega por sus propios medios al Bien Común.
+
+#### Compendio de la Doctrina Social de la Iglesia n185
+
+-   No se puede promover la dignidad humana sin cuidar: (Los individuos dan vida)
+    
+
+-   Familia, 
+    
+-   Asociaciones                          
+    
+-   Grupos sociales                      
+    
+
+-   Políticos, económicos, etc.
+    
+
+-   Ámbito propio de la sociedad civil:
+    
+
+-   Creatividad y libertad de los ciudadanos
+    
+
+-   La red de estas relaciones forma el tejido social
+    
+
+#### Comunidad Política: es el aspecto político jurídico de la sociedad civil
+
+-   Surge por insuficiencia de la sociedad civil
+    
+-   Se organiza por leyes, procedimientos e instituciones
+    
+-   Razón de ser: Procurar el bien común de sus integrantes
+    
+-   Es idéntica a la sociedad civil, integrada por los mismos individuos
+    
+
+  
+
+→ Notas
+
+-   Perfecta (completa)
+    
+-   Ocupa un territorio
+    
+-   Congrega a ciudadanos y habitantes
+    
+-   Tiene poder de coerción
+    
+
+#### Vida social
+
+-   Importancia de promover iniciativas que fortalezcan el tejido social.
+    
+-   Estado y mercado:
+    
+
+-   Instituciones PARA la persona y no a la inversa.
+    
+
+-   Favorecer el crecimiento de las personas, es contribuir al bien común de la sociedad.
+    
+
+# PRINCIPIOS ÉTICOS PARA LA SOCIEDAD (PPT 3)
+
+#### → Principios necesarios en la vida social:
+
+-   BIEN COMÚN
+    
+-   DESTINO UNIVERSAL DE LOS BIENES
+    
+-   PROPIEDAD PRIVADA
+    
+-   SOLIDARIDAD
+    
+-   SUBSIDIARIEDAD
+    
+
+#### → Principales virtudes a ejercer:
+
+-   VERDAD
+    
+-   LIBERTAD
+    
+-   JUSTICIA
+    
+-   PAZ 
+    
+-   CARIDAD
+    
+
+→ Respeto por los derechos de las personas: implican DEBERES
+
+## Bien común
+
+Tiene que ver con la sociedad, hace posible la realización de cada miembro. 
+
+Es un conjunto de condiciones que debe reunir una sociedad para que las personas que la conforman puedan desarrollarse como tal. Es un objetivo propio de un grupo de personas que están unidas naturalmente. 
+
+-   No es la simple suma de los bienes individuales. Incluye los bienes individuales, pero los supera. 
+    
+-   Es un bien solo cuando se comparte.
+    
+-   Una de las funciones principales de un gobierno es cuidar el bien común de una sociedad. 
+    
+-   Además del bien común de una sociedad hay un bien común internacional.
+    
+-   Buscar el bien común pertenece a la esencia de una persona y de una sociedad
+    
+
+  
+
+Los contenidos pueden variar, pero lo esencial no cambia. 
+
+-   Importante para el desarrollo personal y social: Que las relaciones humanas no se limiten a simple coexistencia.
+    
+-   Objetivo propio de un grupo de personas que están unidas naturalmente (familia) o se asocian libremente en vista de ese fin: 
+    
+
+-   Constituye la razón de ser de todo grupo humano (CDSI 174).
+    
+
+-   No es la simple suma de los bienes de los individuos: 
+    
+
+-   Es un bien sólo cuando se comparte.
+    
+-   Es común porque únicamente juntos se puede lograr y disfrutar de él (CDSI 175). 
+    
+-   La producción, salvaguardia y goce del bien común pone de relieve el carácter relacional de las personas.
+    
+
+-   Todas las comunidades, simples o complejas, tienen su propio bien común. 
+    
+-   Se construye entre todos. Todos tenemos que esforzarnos en llevar a cabo el bien común. El principal responsable de cuidar ese bien común es el estado. 
+    
+-   Objetivo de todo Estado que se propone el desarrollo de los ciudadanos.
+    
+-   Bien común como bien de todo el hombre y de todo hombre (DCSI 177)
+    
+
+-   Pertenece a la esencia del bien común que alcance a todas las personas y grupos sociales. 
+    
+-   Bien común internacional: 
+    
+
+-   Exigencia de la creciente interdependencia mundial
+    
+-   Atañe a toda la familia humana (CDSI 178)
+    
+
+-   Su logro debe estar regulado por la ley moral: Ninguna acción inmoral puede contribuir a su edificación.
+    
+
+-   Comunidad política:
+    
+
+-   Le corresponde la completa realización del bien común en el orden temporal
+    
+
+-   Contenidos del bien común:
+    
+
+-   Pueden variar con las circunstancias temporales y locales. 
+    
+
+-   Hay elementos esenciales para la relacionalidad humana, que siempre forman parte del bien común: 
+    
+
+-   Empeño por la paz, (enseñando, eliminando la droga)
+    
+-   Organización de los poderes del Estado, (tener distintos poderes para evitar el abuso de poder. En Venezuela están abusando de los poderes)
+    
+-   Protección del medio ambiente, 
+    
+-   Prestación de los servicios esenciales para el normal desarrollo de la vida humana: alimentación, vivienda, trabajo, libertad religiosa, educación, cultura, información, salud, etc. (CDSI 180)
+    
+
+  
+
+-   Se construye entre todos.
+    
+-   Todos los miembros de la sociedad deben esforzarse en su realización y mantenimiento.
+    
+-   La responsabilidad recae principalmente sobre los poderes públicos: 
+    
+
+-   La razón de ser del Estado, su legitimidad y su tarea principal es la edificación del bien común temporal.
+    
+
+  
+
+→ Bien común – Estado – Sociedad civil
+
+-   Importante papel del Estado:
+    
+
+-   Relacionar armónicamente las distintas contribuciones de la comunidad civil.
+    
+-   Lograr el bien común con la cooperación de todos (CDSI 185).
+    
+-   Conciliar en modo justo los intereses de los distintos grupos e individuos. 
+    
+-   Conciliación no significa igualitarismo: 
+    
+
+-   Que todos alcancen el debido desarrollo de acuerdo a su propia situación
+    
+
+## Destino universal de los bienes
+
+-   Dignidad de todo ser humano: mínimo de bienes necesarios para su desarrollo
+    
+
+-   Sociabilidad humana: nadie es ajeno a las necesidades de los demás
+    
+
+-   Dios ha creado y dado la tierra a los hombres para su desarrollo
+    
+
+-   Sin excluir ni privilegiar a nadie.
+    
+
+-   Fundamento: Necesidad de estos bienes para el correcto desarrollo de los individuos y de los grupos.
+    
+-   El hombre no puede prescindir de los bienes de la tierra:
+    
+
+-   BIENES MATERIALES
+    
+
+-   No deben considerarse exclusivamente propios
+    
+-   No sólo deben beneficiar al dueño sino también a los demás
+    
+-   Responden a necesidades humanas primarias
+    
+-   Infraestructura necesaria para la vida humana en todas sus dimensiones, también la trascendente
+    
+
+-   Enseñanza de la iglesia
+    
+
+-   El principio de uso común de los bienes y su destino universal es:
+    
+
+-   Primer principio de todo ordenamiento social
+    
+-   Principio peculiar de la doctrina social cristiana
+    
+
+-   Uso de los bienes propios: comporta obligaciones que derivan de su función social
+    
+
+-   Legítimo propietario
+    
+
+-   Tener en cuenta las consecuencias sociales de su uso, y destinarlo a la promoción del bien común, además del beneficio personal
+    
+
+  
+
+-   El destino universal de los bienes es un derecho inscrito en la naturaleza de la persona. Es:
+    
+
+-   Natural, original y universal
+    
+-   No depende de situaciones históricas ni de la voluntad del Estado
+    
+-   Pertenece a cualquier hombre y grupo humano por el hecho de serlo
+    
+
+-   Tiene prioridad sobre cualquier decisión acerca de los bienes personales, los ordenamientos jurídicos, cultura o sistema económico
+    
+-   Se concreta de modos diversos según las múltiples situaciones sociales
+    
+
+-   Implica: ayudar a los indigentes pidiendo esfuerzo por su parte
+    
+-   Enseñar a todos:
+    
+
+-   No ceder a la pereza
+    
+-   Esforzarse por conseguir los bienes necesarios, sin apegarse a ellos
+    
+-   Vivir la fraternidad y ayudar al prójimo
+    
+
+-   Exige empeño programado y responsable de todas las personas, grupos y países
+    
+
+-   Ocuparse del propio progreso: personas individuales y grupos sociales
+    
+-   Actuar con libertad y empeño para resolver las propias necesidades, sin esperar recibirlo todo de los demás.
+    
+-   El progreso inicia y encuentra su cumplimiento más adecuado en el esfuerzo de cada uno por desarrollarse en colaboración con todos los demás (CDSI 194)
+    
+
+#### Derecho a la propiedad privada
+
+-   Deriva del destino universal de los bienes.
+    
+-   Necesario para la autonomía personal y familiar.
+    
+-   Ampliación de la libertad humana.
+    
+-   Acceso equitativo de todos a la propiedad.
+    
+-   Que cada persona y familia posea ciertos bienes como propios
+    
+-   No es absoluto.
+    
+-   Dominio privado está subordinado a su original destino común.
+    
+-   Principio de destino universal de los bienes: Es anterior y está en la base del derecho a la propiedad privada.
+    
+-   Propiedad privada: No es fin sino medio.
+    
+
+  
+  
+
+## Solidaridad
+
+-   Unión sólida de todos los seres humanos:
+    
+
+-   Lo que cada uno hace repercute en la sociedad, en los demás hombres
+    
+
+-   Criterio esencial de la naturaleza humana
+    
+-   Criterio necesario para la organización social
+    
+
+-   Promover la inalienable dignidad de la persona
+    
+-   Contribuir a su pleno desarrollo
+    
+-   Favorecer la libertad y responsabilidad de todos en las relaciones sociales
+    
+-   Reforzar las instituciones sociales para que aporten al bien común
+    
+
+  
+
+-   Es virtud: 
+    
+
+-   No es un sentimiento superficial hacia los “males” de otras personas.
+    
+
+-   Determinación firme y perseverante de empeñarse en el bien común.
+    
+-   Disposición sólida y constante de actuar en favor del bien ajeno.
+    
+-   Se requiere formación en solidaridad
+    
+
+## Subsidiariedad
+
+-   Personas: 
+    
+
+-   Sujetos activos de su propio desarrollo
+    
+-   Libertad personal
+    
+
+-   Promover la iniciativa de personas y grupos sociales
+    
+-   Estado: no sustituir a las personas ni a las sociedades menores
+    
+
+  
+
+-   Principio natural aplicable a todos los grupos humanos.
+    
+-   Unido a la necesidad de la participación de cada uno en la edificación del bien social.
+    
+-   IMPLICA:
+    
+
+-   En sentido positivo: Favorecer las iniciativas de individuos y grupos menores; y la creación de instituciones que favorezcan la actuación autónoma.
+    
+-   En sentido negativo: No limitar el espacio de actuación de personas y grupos menores
+    
+
+-   Cuando es necesario suplir:
+    
+
+-   Limitarse a lo estrictamente necesario.
+    
+
+#### Valores necesarios para la vida en sociedad
+
+-   Exigen
+    
+
+-   Adecuadas disposiciones por parte de los actores sociales.
+    
+-   Organismos e instituciones que promueven esos valores en la vida social.
+    
+
+-   Principales valores
+    
+
+-   La verdad, la libertad, la justicia, la paz
+    
+-   En primer lugar, la caridad (CDSI n. 250)
+    
+
+  
+
+→ Verdad - Lealtad – Honestidad
+
+-   Educación en la verdad: Reconocerla, Respetarla y Atestiguarla
+    
+
+-   Compromiso de todos: buscarla, promoverla, lograr que prevalezca
+    
+-   Una sociedad sin verdad va hacia la disolución
+    
+
+  
+
+→ Libertad
+
+-   La sociedad debe promover el ejercicio de la libertad en todos los ámbitos de la vida: social, religiosa, cultural.
+    
+
+  
+
+→ Justicia
+
+-   Actitud que lleva a reconocer al otro como persona, y a darle lo que le corresponde
+    
+-   El Estado es el encargado de asegurar la justicia, pero cada persona debe vivirla en su ámbito
+    
+-   La justicia por sí sola no alcanza
+    
+
+#### Ecología
+
+-   Exigencia moral: Respetar el medio ambiente. Límites al uso de la naturaleza
+    
+
+Tener en cuenta:
+
+-   Renovabilidad de los recursos
+    
+-   Consecuencias de una industrialización desordenada
+    
+
+  
+
+→ Ambiente
+
+-   Resultado de dos subsistemas:
+    
+
+-   Geografía: clima, orografía, vegetación, etc.
+    
+-   Hábitat: Conjunto de estructuras realizadas por el hombre para mejorar la naturaleza
+    
+
+-   Equilibrio entre ambos
+    
+
+  
+
+→ Problemas ecológicos
+
+-   Contaminación y degradación ambiental
+    
+
+-   Cultura urbana, Industrialización
+    
+
+-   Efecto invernadero
+    
+
+-   Cambio climático
+    
+
+-   La capa de ozono
+    
+
+-   Uso de los clorofluocarburos
+    
+
+-   Extinción de las especies
+    
+
+-   Mayor avance, áreas protegidas
+    
+
+  
+
+→ Enseñanza de la Iglesia
+
+-   Amar y respetar la creación.
+    
+-   La naturaleza no debe divinizarse ni idolatrarse.
+    
+-   La cuestión ecológica no es tanto un problema técnico sino de pensamiento: se debe resolver con planteos éticos.
+    
+-   Crecimiento demográfico: Se debe estudiar y buscar soluciones desapasionadas
+    
+-   La vida humana es sagrada.
+    
+-   En las áreas geográficas donde abunda la pobreza: La solución no es disminuir el número de personas
+    
+-   Buscar otras soluciones: Mejor distribución de la riqueza, Países ricos ayudando a países pobres, Generar fuentes de trabajo, Enseñar a cuidar lo propio, etc.
+    
+-   El hombre debe relacionarse armónicamente con la naturaleza.
+    
+
+# LAS ASOCIACIONES HUMANAS (PPT?)
+
+#### Sociabilidad humana
+
+-   Sociedad:
+    
+
+-   Conjunto de personas ligadas de manera orgánica por un principio de unidad que supera a cada una de ellas
+    
+-   Asamblea a la vez visible y espiritual
+    
+-   Recoge el pasado y prepara el porvenir
+    
+
+  
+
+-   Naturaleza del hombre
+    
+
+La persona responde a sus propias necesidades desde una subjetividad relacional: Necesita integrarse, es libre y responsable y colabora con sus semejantes.
+
+  
+
+-   La vida social es una característica de la persona: lo distingue del resto de los seres.
+    
+-   Actuación social
+    
+
+-   Manifiesta cómo es la persona
+    
+-   Demuestra su calificación interior
+    
+-   Manifiesta la calidad de esa persona
+    
+
+-   Sociabilidad humana: Gérmenes de insociabilidad, generado por disvalores (egoísmo, individualismo)
+    
+-   En función del bien propio y del de los demás: grupos estables, asociaciones → búsqueda del bien común
+    
+
+  
+
+-   Diversas sociedades → solidaridad, comunicación, colaboración → Bien común
+    
+-   Sociabilidad humana: No es uniforme (diversas manifestaciones)
+    
+-   El Pluralismo social y la unidad entre las diversas sociedades favorecen el bien común:
+    
+
+-   Familia, Comunidad civil y Comunidad religiosa: Corresponden más inmediatamente a la naturaleza del hombre 
+    
+
+  
+
+-   « Con el fin de favorecer la participación del mayor número de personas en la vida social, es preciso impulsar, alentar la creación de asociaciones e instituciones de libre iniciativa “para fines económicos, sociales, culturales, recreativos, deportivos, profesionales y políticos, tanto dentro de cada una de las Naciones como en el plano mundial”. (CDSI n.151)
+    
+-   Asociaciones:
+    
+
+-   Objetivos que exceden las capacidades individuales
+    
+-   Desarrolla cualidades de la persona (iniciativa y responsabilidad)
+    
+-   Ayuda a garantizar sus derechos
+    
+
+#### Sociedad política
+
+-   Necesidad:
+    
+
+-   Imposibilidad de cada persona de satisfacer sus necesidades materiales y espirituales
+    
+-   Vocación a convivir con otros y comunicar sus sentimientos
+    
+-   Existencia de disvalores que dificultan la sociabilidad
+    
+
+  
+
+-   Política:
+    
+
+-   Ciencia y arte que se ocupan de la organización y administración de la res(cosa) pública (res publica = republica), para alcanzar el Bien común de la sociedad
+    
+
+-   ESTADO COMO ENCARGADO DE PROTEGER EL BIEN COMÚN DE LA SOCIEDAD POLÍTICA
+    
+
+#### Sociedad civil y cuerpos intermedios
+
+-   Finalidad del Estado:
+    
+
+-   Estructuración de la vida pública en orden al bien común.
+    
+
+-   Sociedad civil:
+    
+
+-   Conjunto de las relaciones entre individuos y entre sociedades intermedias 
+    
+-   Se realizan en forma originaria
+    
+-   Respeto por la “subjetividad creativa del ciudadano”
+    
+
+-   La red de estas relaciones forma el tejido social.
+    
+-   Constituye la base de una verdadera comunidad de personas.
+    
+
+#### Sociedad política y sociedad civil
+
+-   Sociedad política ≠ Sociedad civil. La sociedad política es la estructura que cuida de esa sociedad civil que cuida del bien común. Lo que le da forma es la sociedad civil, aunque la que tiene más autoridad es la política. Pero, de todas maneras, la civil tiene poder sobre la política ya que sin la civil la sociedad política no existe. La razón de ser de la sociedad política es la sociedad civil. Las instituciones políticas tienen que trabajar, favorecer, desarrollar la sociedad civil. Ejemplo: urbanizar las villas o el metrobus o el mejoramiento de las escuelas públicas. Sociedad política favoreciendo el desarrollo de la sociedad civil: apoyando ONGS. Aparte de favorecer la sociedad civil también tiene que proteger las iniciativas sociales cuyo crecimiento aporta al bien social.
+    
+-   Comunidad política:
+    
+
+-   Deriva de las personas y grupos que conforman una sociedad
+    
+-   Se constituye para servicio de la sociedad
+    
+
+-   Sociedad civil:
+    
+
+-   No es un apéndice o una variable de la sociedad política
+    
+-   Tiene preeminencia sobre la política
+    
+-   Justifica la existencia de la sociedad política
+    
+
+-   LA RAZÓN DE SER DE LA SOCIEDAD POLÍTICA ES LA SOCIEDAD CIVIL
+    
+
+#### Criterios de actuación
+
+-   Instituciones políticas:
+    
+
+-   Deben favorecer y, si es el caso, subvencionar los proyectos de la sociedad civil encaminados al bien común 
+    
+-   Proteger las iniciativas sociales cuyo crecimiento aporta del bien social
+    
+
+-   Patologías:
+    
+
+-   Que la política invada a la sociedad civil
+    
+-   Que se dejen algunas –o todas- las funciones del Estado en grupos de presión
+    
+-   Que el Estado reprima la libre iniciativa privada que aporte al bien común
+    
+
+  
+
+La política es esa acción en función de servicio de la sociedad civil. tiene que favorecer la vida privada y tiene que permitir que la persona desarrolle su vida privada. La misión de los gobiernos:
+
+-   Tienen que desarrollar integralmente a la persona
+    
+-   Impulsar una cultura auténticamente humanista
+    
+-   Establecer instituciones sociales y políticas que favorezcan el bien común
+    
+
+#### Actividad política
+
+-   Política:
+    
+
+-   Servicio a las personas y a la sociedad civil
+    
+-   Logro del bien común
+    
+-   Tutela de los derechos de la persona y de los grupos humanos
+    
+
+-   Misión:
+    
+
+-   Promover el desarrollo integral de la persona
+    
+-   Impulsar una cultura auténticamente humanista
+    
+-   Establecer instituciones sociales y políticas que favorezcan el Bien Común
+    
+
+-   Consecuencias:
+    
+
+-   Ejercer la autoridad como servicio a los ciudadanos
+    
+-   No considerar a ninguna persona como una “parte” del todo social, ni tratarlo como medio
+    
+-   Favorecer la solidaridad social
+    
+-   Establecer un estado de derecho
+    
+
+-   QUE HAYA JUSTICIA – PAZ – PROMOCIÓN HUMANA DE TODOS
+    
+
+#### Autoridad política
+
+→ Ley
+
+La ley tiene que ser justa, y para esto debe ser igual para todos, tiene que estar basada en la ley moral, en la ley natural. Si no es justa, no tiene que ser obedecida.
+
+-   Debe emitir leyes justas:
+    
+
+-    Conformes a la dignidad de la persona humana y a los dictámenes de la recta razón
+    
+
+-   La ley humana:
+    
+
+-   Conforme a la recta razón y por tanto deriva de la ley eterna. 
+    
+
+-   Cuando una ley está en contraste con la razón, se le denomina ley injusta
+    
+
+-   Deja de ser ley y se convierte en un acto de violencia 
+    
+
+-   El ciudadano no está obligado en conciencia a seguir las prescripciones de las autoridades civiles si éstas son contrarias:
+    
+
+-   A las exigencias del orden moral, 
+    
+-   A los derechos fundamentales de las personas 
+    
+-   A las enseñanzas del Evangelio
+    
+
+  
+
+-   Garantizar la vida ordenada y recta de la comunidad
+    
+-   No suplantar la libre actividad de las personas y de los grupos, 
+    
+-   Orientar hacia la realización del bien común
+    
+-   Respetar y tutelar la independencia de los sujetos individuales y sociales
+    
+-   Instrumento de coordinación y dirección
+    
+-   Ejercicio de la autoridad:
+    
+
+-   Dentro de los límites del orden moral
+    
+-   Para procurar el bien común
+    
+-   Según el orden jurídico legítimamente establecido
+    
+
+  
+
+→ Obligaciones de la autoridad política
+
+-   Principal obligación → Promoción del bien común
+    
+-   Implica → No ceder al afán del poder
+    
+-   Trabajo en la política:
+    
+
+-   Es ayuda al ciudadano
+    
+-   Servicio
+    
+-   No algo impersonal y burocrático
+    
+
+  
+
+→ Sujeto de la autoridad política
+
+-   El pueblo como titular de la soberanía.
+    
+-   El pueblo transfiere el ejercicio de su soberanía a aquellos que elige libremente como sus representantes
+    
+-   Conserva la facultad de ejercitarla en el control de las acciones de los gobernantes 
+    
+-   También en su sustitución, en caso de que no cumplan satisfactoriamente sus funciones.
+    
+-   Control de las acciones de los gobernantes
+    
+
+-   Derecho válido en todo Estado y en cualquier régimen político
+    
+-   Democracia : permite y garantiza su mejor actuación. 
+    
+-   El solo consenso popular no es suficiente para considerar justas las modalidades del ejercicio de la autoridad política
+    
+
+#### Regímenes de gobierno
+
+-   No es competencia de la Iglesia determinar:
+    
+
+-   El régimen político de un país,
+    
+-   Las instituciones necesarias
+    
+-   Los contenidos de las leyes constitucionales.
+    
+
+-   Puede alabar o reprobar determinadas formas de organización política en relación con:
+    
+
+-    El respeto a la dignidad y al bien de las personas
+    
+-   Al bien común.
+    
+
+#### Iglesia y democracia
+
+-   En cuanto a la participación de los ciudadanos en la gestión de los asuntos públicos:
+    
+
+-   La Iglesia alienta esa participación.
+    
+
+-   En cuanto a forma de gobierno:
+    
+
+-   La Iglesia respeta la libertad de elección de los ciudadanos.
+    
+
+-   En cuanto a su significado que pone en el pueblo el origen último de la autoridad:
+    
+
+-   La Iglesia ha señalado ese error.
+    
+
+  
+
+-   Razones:
+    
+
+-   Implica un componente ético: respeto por el ciudadano, bien común
+    
+-   El pueblo ejerce el poder por medio de sus representantes
+    
+-   Posibilidad de participación en la vida pública
+    
+-   Es el que mejor garantiza los DDHH y la justicia
+    
+
+-   Tener en cuenta: riesgo de desviaciones
+    
+
+  
+
+Deber de hospitalidad
+
+  
+
+Migraciones humanas
+
+  
+
+-   Migraciones:  Reconocimiento de los derechos fundamentales de toda persona, independientemente de su procedencia geográfica. 
+    
+
+-   La migración en busca de mejores condiciones de vida está destinada a crecer.
+    
+-   Para resolver el problema:
+    
+
+-   Alentar el crecimiento de los países menos desarrollados.
+    
+
+-   Libertad de emigración: Derecho inalienable de las personas
+    
+-   Emigración:
+    
+
+-   Derecho para quienes lo necesitan
+    
+-   Ventaja para aquellos que reciben los inmigrantes, no sólo en términos socioeconómicos
+    
+
+  
+
+-   Necesidad de elaborar marco jurídico adecuado que regule las migraciones:
+    
+
+-   Justa regulación de a la luz del bien común (nacional y mundial) 
+    
+-   Esencial para garantizar el respeto de la dignidad de los emigrantes y de las sociedades que los reciben.
+    
+
+-   Migración se ajustará a:
+    
+
+-   Normas jurídicas equitativas, acordadas entre los diversos países.
+    
+-   En la medida de lo posible, reconocidas por el derecho internacional.
+    
+
+  
+
+#### Cuestión de las minorías
+
+-   Cada vez más frecuente que grupos étnicos, culturales y religiosos se asienten en un país en que la mayoría de los ciudadanos pertenecen a un grupo diferente:
+    
+-   Lo que se haga por reprimir el desarrollo de estas minorías es contrario a la justicia.
+    
+-   Promover los valores humanos de esas minorías (lengua, cultura, etc.)
+    
+-   Facilitar la inserción de las minorías.
+    
+
+  
+
+#### Patriotismo y nacionalismo
+
+-   Patriotismo: Amor debido la propia patria.
+    
+-   Nacionalismo: Falso amor a la propia patria, con rechazo de las demás, en cuanto no reconoce la igual dignidad de todos los hombres y pueblos
+    
+
+  
+
+ → Enseñanzas de la Iglesia
+
+-   Pablo VI advirtió que «el nacionalismo aísla los pueblos en contra de lo que es su verdadero bien”. 
+    
+-   Juan Pablo II:
+    
+
+-   Reconocer la divergencia esencial entre:
+    
+
+-   Forma peligrosa de nacionalismo, que predica el desprecio por las otras naciones o culturas y el patriotismo, que es, en cambio, el justo amor por el propio país de origen.
+    
+
+  
+
+→ Patriotismo
+
+-   Procura el bien de la nación:
+    
+
+-   Reconociendo los propios valores culturales
+    
+-   Esforzándose por cumplir los deberes ciudadanos, 
+    
+-   Empeñandose por fomentar su prosperidad, acrecentar su cultura y transmitirla a las nuevas generaciones.
+    
+
+-   No denigra los otros países ni niega sus valores objetivos:
+    
+-   Sabe aceptar las deficiencias de su propia patria tratando de corregirlas.
+    
+
+  
+
+#### Racismo y Xenofobia
+
+-   Racismo: Ideología que proclama la diferenciación étnica y la superioridad de la propia raza, normalmente asociada a un proyecto de someter a otras razas. 
+    
+-   Xenofobia: Si la discriminación se realiza con los extranjeros, aunque sean de la misma raza.
+    
+-   Racismo:
+    
+
+-   Sentido básico:
+    
+
+-   Considera la etnia, entendida en cuanto grupo biológico característico, como el motor del progreso humano y cultural de la sociedad
+    
+
+-   Segundo nivel:
+    
+
+-   Afirma la existencia de un orden jerárquico entre las razas
+    
+-   Algunas superiores, en cuanto las propias cualidades innatas les habría permitido edificar una cultura y una historia eminente
+    
+-   Derecho de controlar –e incluso de esclavizar– a las otras
+    
+
+  
+
+→ Errores del racismo
+
+1.  Existe una distancia infranqueable entre razas superiores y razas inferiores, aproximando estas últimas a la especie animal más alta.
+    
+2.  Cualquier medio es legítimo a condición de que conserve y cultive el vigor de la raza
+    
+3.  Todas las cualidades intelectuales y morales derivan de la sangre; 
+    
+4.  El bien supremo de la educación es desarrollar los caracteres de la raza;
+    
+5.  La ley de la raza impera sobre la misma religión;
+    
+6.  El instinto racial es la fuente primera y la regla suprema de todo ordenamiento jurídico sólo existe el universo viviente; 
+    
+7.  El hombre es tan sólo una forma en que el cosmos se amplifica en el curso de las edades;
+    
+8.  La existencia de la persona humana se justifica tan sólo por el Estado y para el Estado; sus derechos son meras concesiones gratuitas de la entidad estatal
+    
+
+  
+
+→ Enseñanza de la Iglesia
+
+«Si la raza o el pueblo, si el Estado o una forma determinada del mismo, si los representantes del poder estatal u otros elementos fundamentales de la sociedad humana tienen en el orden natural un puesto esencial y digno de respeto, con todo, quien los arranca de esta escala de valores terrenales elevándolos a suprema norma de todo, aun de los valores religiosos, y, divinizándolos con culto idolátrico, pervierte y falsifica el orden creado e impuesto por Dios, está lejos de la verdadera fe y de una concepción de la vida conforme a ésta» (Pío XI)
+
+# LA FAMILIA, CÉLULA DE LA SOCIEDAD (PPT5)
+
+#### Familia
+
+La familia para la doctrina social de la iglesia es sumamente importante. Es la primera sociedad con la que entramos en contacto. Es el núcleo donde nacen los chicos que van a ser ciudadanos.
+
+-   Célula vital de la sociedad (conjunto de familias) → Naturaleza social de la persona
+    
+-   No es realidad meramente privada: clara función social
+    
+-   Fundamentada en el sacramento del matrimonio, confiere la gracia sacramental
+    
+
+-   Importancia y centralidad de la familia en la persona y sociedad
+    
+
+#### Textos de las SSEE
+
+La iglesia entiende a la familia como el conjunto de varón mujer que está fundamentado en el sacramento del matrimonio. La familia es privada, y el estado no se puede meter a opinar dentro de la familia. Pero el estado tiene que apoyar a la familia entonces no es totalmente privado. 
+
+  
+
+-   La pareja constituye la expresión primera de la comunión de personas humanas. 
+    
+-   Creación del hombre → Eva creada semejante a Adán: Como aquella que, en su alteridad, lo completa
+    
+
+#### Naturaleza
+
+-   Primera sociedad natural.
+    
+-   Expresión primaria y fundamental de la naturaleza social del hombre
+    
+-   Integra un conjunto de relaciones interpersonales, conyugales, filiales, fraternales, paternales. 
+    
+
+  
+
+El origen de la familia es la misma naturaleza de la sociedad. La encuentro en la misma esencia de la persona, es el origen bíblico. No es bueno que el hombre esté solo. La pareja humana constituye la expresión primera de la comunión de personas humanas. La creación de Eva, la primer mujer, está creada semejante a Adán. Pero no igual. La complementariedad varón mujer, somos seres humanos iguales, tenemos todo igual, tenemos distintas condiciones. Entre los dos hacemos la humanidad. Complementariedad varón y mujer: somos distintos físicamente y es evidente, pero presenta una complementariedad. Nos complementamos entre los dos.
+
+#### Familia y sociedad
+
+-   Familia:
+    
+
+-   Protagonista de la vida social 
+    
+-   Valores que contiene y transmite
+    
+-   Participación de sus miembros en la vida de la sociedad
+    
+
+  
+
+-   Familia → Primer lugar de socialización: contribuye al bien de la sociedad
+    
+-   Implicancias éticas:
+    
+
+-   Persona individual
+    
+-   Bien común
+    
+
+-   NO PUEDE SER SUSTITUIDA POR ENCIMA DE LA SOCIEDAD Y DEL ESTADO
+    
+-   FAMILIA POR ENCIMA DE LA SOCIEDAD Y DEL ESTADO
+    
+
+  
+
+-   La familia hace centro en la persona
+    
+
+-   Educación sin esperar recompensas
+    
+-   Se la quiere por sí misma
+    
+-   Es un fin, no un medio
+    
+-   Sociabilidad
+    
+-   Se inculcan valores morales
+    
+
+-   La “salud” de la sociedad depende de la vitalidad de las familias que la componen
+    
+-   Se constituye por la libre voluntad de las personas
+    
+
+-   Principal objetivo: el amor conyugal, parental y filial
+    
+
+-   SU INFLUENCIA SE EXTIENDE AL CONJUNTO DE LA SOCIEDAD
+    
+
+#### Dignidad, derecho y deberes de la familia
+
+-   Derivan de la misma naturaleza de la familia
+    
+-   No son concesión de la sociedad
+    
+
+-   No pueden ser limitados por el estado
+    
+-   Los poderes deben protegerlos
+    
+
+-   Reconocimiento, cultural, político y jurídico de sus derechos
+    
+
+#### Funciones de la familia
+
+-   Facilitar el crecimiento humano de sus miembros.
+    
+-   Lugar adecuado para generar nuevas vidas humanas y desarrollar su humanidad. 
+    
+-   Contribuir al bien de la entera sociedad.
+    
+-   Escuela del más rico humanismo
+    
+-   Primera escuela de virtudes sociales que todas las sociedades necesitan.
+    
+-   La calidad de las familias condiciona la calidad moral de quienes forman un país.
+    
+
+#### Carta de los derechos de las familias
+
+-   Punto de referencia para la protección y la promoción de la familia como sociedad natural y universal, sujeto de derechos y deberes precedentes al Estado.
+    
+-   Libertad de fundar un hogar, de tener hijos y de educarlos de acuerdo con sus propias convicciones morales y religiosas;
+    
+-   Protección de la estabilidad del vínculo conyugal y de la institución familiar;
+    
+-   Profesar su fe, transmitirla, educar a sus hijos en ella, 
+    
+-   Derecho a la propiedad privada, a la libertad de iniciativa, a tener un trabajo, una vivienda, 
+    
+-   Derecho a emigrar
+    
+-   Derecho a la atención médica, a la asistencia de las personas de edad, a los subsidios familiares;
+    
+-   Protección de la seguridad y la higiene, especialmente por lo que se refiere a peligros como la droga
+    
+
+  
+
+#### Familia y amor
+
+-   Es íntima comunidad de vida y de amor: custodiar, revelar y comunicar el amor
+    
+-   Amor paterno/materno/filial:
+    
+
+-   Desinteresado
+    
+-   Que piensa en el bien del otro
+    
+
+-   Escuela de una vida de servicio
+    
+-   Indispensable para el buen desarrollo social
+    
+-   La vida familiar debe desarrollarse en un clima de afecto, de armonía, de serenidad interior y exterior
+    
+
+#### Educación de los hijos
+
+¿A quien le corresponde la educación de los hijos?: A los padres, si el estado obliga a los chicos a ir al colegio, y la familia no lo hace, el estado debe obligarlos a ir al colegio, es el principio de subsidiaridad. 
+
+La importancia de la familia es para la persona y para la sociedad. Es privada la familia, pero el estado puede intervenir cuando sea necesario y por el bien de los niños. En este país hay una ley federal de educación que obliga a los 14 años a ir al colegio. El estado tiene que tener suficientes establecimientos educativos para que todos los chicos vayan al colegio y se eduquen. 
+
+  
+
+-   Derecho y deber de los padres
+    
+
+-   En el hogar
+    
+
+-   Amor al prójimo
+    
+-   Lealtad con los demás
+    
+-   Ayuda a los demás
+    
+-   Solidaridad
+    
+-   Justicia 
+    
+-   Aprecio por la paz y la concordia
+    
+-   Perdón de las ofensas
+    
+
+-   Educación formal
+    
+
+  
+
+#### Derecho y deber de la familia a la educación
+
+-   Esencial: Unido a la transmisión de la vida
+    
+-   Original: No procede de una instancia exterior a la familia
+    
+-   Primario: En relación a la función educativa de otros grupos humanos
+    
+-   Inalienable: No puede ser totalmente delegado a otros ni usurpado por otros
+    
+-   Insustituible: No es reemplazable por otra institución 
+    
+
+  
+
+#### Familia e instituciones educativas
+
+-   Necesita la colaboración de otras instituciones .
+    
+-   Los padres deben velar por la educación que sus hijos reciben en los centros educativos.
+    
+-   Derecho de los padres a establecer instituciones educativos acordes a sus principios, creencias, etc.
+    
+-   Autoridad pública: asegurar ese derecho
+    
+
+# EL TRABAJO – VOCACIÓN HUMANA Y DIVINA (PPT4)
+
+Trabajo: condición humana; anterior a la caída. Jesús enseña a apreciar el trabajo. El trabajo es un medio y no fin. Es enseñanza de Jesucristo el descanso sabático.
+
+El trabajo presenta una dimensión fundamental de la existencia humana no sólo como participación en la obra de la creación, sino también de la redención.
+
+El trabajo es la vocación natural del hombre, lo perfecciona: dar gloria a Dios con el trabajo bien hecho y colaborar en la obra creadora de Dios.
+
+  
+
+Dignidad del trabajo:
+
+-   Dimensión objetiva: el trabajo en sí mismo; permite al hombre el dominio de la naturaleza; perfecciona la naturaleza.
+    
+-   Dimensión subjetiva: el hombre en cuanto capaz de realizar las acciones de ese trabajo; perfecciona a la persona; es lo que da mayor dignidad al trabajo.
+    
+
+  
+
+La dimensión subjetiva es superior en dignidad a la dimensión objetiva. Corresponde a la dignidad del hombre como ser personal. Confiere al trabajo su peculiar dignidad. El trabajo es expresión esencial de la persona (es un acto de la persona). La persona es la medida de la dignidad del trabajo. Preeminencia sobre la objetiva. El trabajo humano procede del hombre y es también su finalidad.
+
+  
+
+Dimensión social del trabajo
+
+La persona es social por naturaleza. Por medio del trabajo se vincula con los demás (los frutos del trabajo son ocasión de intercambio, relaciones y encuentro). El trabajo es para el hombre y no el hombre para el trabajo.
+
+  
+
+Relaciones capital-trabajo
+
+Existe una prioridad intrínseca del trabajo sobre el capital. El capital humano como medio material de producción es superior a cualquier factor de producción.
+
+La persona es el principal “recurso” del trabajo. Corresponde el desarrollo integral de la persona en el trabajo, además favorece la eficacia y la productividad del mismo trabajo.
+
+Las cualidades personales de los trabajadores aportan a la productividad, hay una complementariedad trabajo capital.
+
+-   Ni el capital puede subsistir sin el trabajo, ni el trabajo sin el capital.
+    
+-   Responsables de las empresas: están obligados a considerar el bien de las personas y no solamente el aumento de las ganancias.
+    
+
+Los empresarios deben permitir la participación de los trabajadores en la gestión y beneficios; y evitar la explotación de los trabajadores por mayores beneficios. Tener en cuenta propiedad privada subordinada al destino universal de los bienes y garantizar una economía al servicio del hombre.
+
+  
+
+Primacía del trabajo frente al capital: el principio de la primacía del trabajo frente al capital se refiere directamente al proceso mismo de producción, respecto al cual el trabajo es siempre una causa eficiente primaria, mientras el capital, siendo el conjunto de los medios de producción, es sólo un instrumento o la causa instrumental. Este principio es una verdad evidente, que se deduce de toda la experiencia histórica del hombre.
+
+  
+
+El derecho al trabajo, es el derecho fundamental y un bien para el hombre. El trabajo debe estar disponible para todos los que tienen capacidad para realizarlo. Plena ocupación: objetivo obligado de todo ordenamiento orientado a la justicia y al Bien Común.
+
+  
+
+Familia y derecho al trabajo
+
+El trabajo asegura los medios de subsistencia y garantiza el proceso educativo. Corresponde que las organizaciones profesionales, sindicatos y el estado, generen políticas laborales que favorezcan la familia.
+
+  
+
+Mujeres y derecho al trabajo: garantizar el derecho de la mujer en el mercado laboral.  Complementariedad varón-mujer en el trabajo profesional.
+
+  
+
+Derechos de los trabajadores: salario justo, medidas sociales (cubrir las necesidades del trabajador y familia) y previsiones (enfermedad, accidentes, desempleo, jubilación). Deberes de los trabajadores: lealtad, rendimiento y vinculación.
+
+Fundamento:
+
+-   La naturaleza de la persona humana y su dignidad trascendente: justa remuneración, descanso, ambientes de trabajo que no perjudiquen a la salud física ni dañen su integridad moral, que sea salvaguardada su propia personalidad, subsidios adecuados.
+    
+
+  
+
+El bienestar económico en un país no se mide exclusivamente por la cantidad de bienes producidos, sino también el modo en que son producidos y el grado de equidad en la distribución de la renta.
+
+  
+
+Ambiente laboral
+
+Instalaciones seguras y confortables; estímulos de competitividad; solidaridad (trabajo en equipo); respeto a la intimidad de los empleados; gente feliz (buen clima); gente flexible (el mundo es cambiante); gente que quiera formarse (adaptación a las nuevas tecnologías); buen trato (favorece el progreso humano y profesional).
+
+  
+
+Sindicatos
+
+Derecho fundamental del hombre a asociarse para ser representado. Acción de defensa a favor del justo bien (no es una lucha contra otro). Huelga -> Ejercido con sentido de responsabilidad; es una medida de fuerza; no debe haber violencia. 
+
+-   Es moralmente legítima como recurso inevitable y/o necesario para obtener un beneficio proporcionado.
+    
+-   Es moralmente inaceptable si hay violencia, u objetivos no directamente vinculados al bien común.
+    
+
+  
+
+Empresa
+
+La empresa debe servir al bien común (mediante la producción de bienes y servicios útiles). En la comunidad en que trabaja es un bien para todos (no una estructura para satisfacer intereses personales). Legítima búsqueda del beneficio tutelando la dignidad humana.
+
+Responsabilidad de la empresa hacia adentro
+
+Para con sus empleados, contribuir al desarrollo de cada persona (salud, vivienda, educación y entretenimiento). Las ganancias no son el fin último de la empresa, debe subordinarse al criterio moral. 
+
+Derecho a la información: claridad en cuanto a los estados financieros a sus empleados (situación próspera o quiebra).
+
+  
+
+Los escenarios actuales de profunda transformación del trabajo humano hacen todavía más urgente un desarrollo auténticamente global y solidario, capaz de alcanzar todas las regiones del mundo, incluyendo las menos favorecidas.
+
+  
+
+Campo laboral (reciprocidad, equidad y solidaridad): 
+
+Respetar la dignidad humana, respetar el bien común, tratar al otro como si fuera uno mismo, capital y trabajo son complementarios (se necesitan mutuamente), el trabajo tiene prioridad sobre el capital (primacía del hombre respecto a las cosas).
+
+  
+
+Injusticias:
+
+-   Contratos “basura”: privaciones de derechos
+    
+-   Trabajo infantil
+    
+-   Favoritismos
+    
+-   Promoción de la “rivalidad” como método de superación
+    
+-   No pagar impuestos
+    
+-   Entornos corruptos
+    
+
+  
+
+Empresa
+
+Realidad de carácter económico orientada a producir y distribuir “productos” de modo eficiente bienes y servicios. Su objetivo, la realización de las personas. Cultura empresarial  → generada a partir de convicciones prácticas y valores. Debe ser humanizadora.
+
+  
+
+Estabilidad laboral
+
+Necesaria para la propia vida y una familia enraizada.
+
+-   Desempleo: perjuicio económico, mina la moral, afecta la autoestima, atenta contra la dignidad.
+    
+-   Régimen de promoción de empleados: estímulo positivo, reconocimiento a los méritos laborales.
+    
+
+**

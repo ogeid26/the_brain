@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"file","file":"rym.md","id":"6a50ce913ff1fc43","x":-1300,"y":-640,"width":320,"height":300},
+		{"type":"text","text":"# Welcome!","id":"51872a02acaf4e1d","x":-1300,"y":-770,"width":220,"height":50},
+		{"id":"73c17185c233a609","x":-860,"y":-640,"width":400,"height":400,"type":"file","file":"materias/tde.md"}
+	],
+	"edges":[]
+}

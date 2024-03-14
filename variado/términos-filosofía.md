@@ -1,0 +1,4 @@
+# Filosofía
+- [[Kant]]
+- [[Descartes]]
+- [[Lacan]]

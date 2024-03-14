@@ -1,0 +1,2 @@
+# Virgilio
+A veces me siento como Virgilio: transeúnte eterno, condenado/dedicado a guiar y conectar. Experiencias, personas. Infinitas irán y vendrán, amarán, odiarán y sentirán. Mi labor es crucial pero solitaria. Los choferes y navegantes son mis colegas.
