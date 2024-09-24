@@ -1,4 +1,4 @@
-[]()#pol 
+
 # Cambio
 Creo que toda intención de cambio es inherentemente política, o, mejor dicho, debe der traducido en acción política. Toda accion política o cambio cultural se ha suscitado a partir de la percepción que algo no está bien, que algo anda mal y no se dabe muy bien qué y por tanto no se puede cambiar.
 

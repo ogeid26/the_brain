@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materias/diseño de sistemas.md",
+                "file": "materias/diseño de interacción/clase-7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materias/diseño de sistemas.md",
+                "file": "materias/diseño de interacción/clase-7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +116,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,32 +135,34 @@
   },
   "active": "4a6428c164f45b84",
   "lastOpenFiles": [
-    "materias/diseño de sistemas.md",
-    "materias/tde.md",
+    "materias/diseño de interacción/clase-7.md",
     "materias/electrónica-informática.md",
-    "canvas/Untitled 1.canvas",
+    "escritos/articulos/contemplación y jugador 9.md",
+    "escritos/articulos/comunicación.md",
+    "escritos/articulos/artículo sobre arca.md",
+    "materias/diseño de interacción/clase-1.md",
+    "proyectos/queue-app.md",
     "materias/factor humano.md",
+    "materias/dsi.md",
+    "materias/dis-int/diseño de interacción.md",
+    "materias/diseño de interacción",
+    "phi/Kant.md",
+    "phi/Descartes.md",
+    "personal/cuentas bancarias.md",
+    "musica/artistas/Rojuu.md",
+    "musica/albumes/Y3Y2.md",
+    "materias/diseño de sistemas.md",
+    "escritos/articulos/cambio.md",
+    "escritos/articulos/ensayo musica material.md",
+    "escritos/articulos/desconexión.md",
+    "materias/tde.md",
+    "escritos/articulos/virgilio.md",
+    "canvas/Untitled 1.canvas",
     "variado/vocal chain ableton.md",
     "rym.md",
-    "phi/Kant.md",
     "variado/términos-filosofía.md",
     "variado/scaruffi.md",
     "variado/rym.md",
-    "templates/autor-template.md",
-    "templates/daily-notes-template.md",
-    "proyectos/queue-app.md",
-    "musica/ideas/Tread.md",
-    "musica/artistas/Drain Gang.md",
-    "musica/artistas/Jihyo.md",
-    "musica/artistas/M.I.A.md",
-    "musica/artistas/Soto Asa.md",
-    "materias/dsi.md",
-    "materias/teología 2.md",
-    "materias/metaversos.md",
-    "cine/directores/luc-besson.md",
-    "cine/directores/christopher-nolan.md",
-    "cine/directores/alex-garland.md",
-    "daily-notes/2023-08-11.md",
     "materias/~syncthing~teología 2.sync-conflict-20230811-153233-GTZIR3D.md.tmp",
     "todos",
     "canvas/Untitled.canvas",
@@ -171,7 +173,6 @@
     "lectura/autores",
     "lectura",
     "proyectos",
-    "musica/ideas",
     "Untitled 1.canvas"
   ]
 }
