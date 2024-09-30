@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8fd36d9c3aee8f97",
+        "id": "675fb80a543e3e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "4a6428c164f45b84",
+            "id": "7aa239a921924bbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "materias/diseño de interacción/clase-7.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materias/diseño de interacción/clase-7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +114,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,39 +131,39 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4a6428c164f45b84",
+  "active": "7aa239a921924bbd",
   "lastOpenFiles": [
-    "materias/diseño de interacción/clase-7.md",
-    "materias/electrónica-informática.md",
-    "escritos/articulos/contemplación y jugador 9.md",
-    "escritos/articulos/comunicación.md",
-    "escritos/articulos/artículo sobre arca.md",
-    "materias/diseño de interacción/clase-1.md",
-    "proyectos/queue-app.md",
-    "materias/factor humano.md",
-    "materias/dsi.md",
-    "materias/dis-int/diseño de interacción.md",
-    "materias/diseño de interacción",
+    "materias/rust.md",
+    "variado/quotes.md",
+    "musica/artistas/Jihyo.md",
+    "variado/bias de kpop.md",
+    "variado/agarrafrases.md",
+    "phi/Lacan.md",
     "phi/Kant.md",
     "phi/Descartes.md",
-    "personal/cuentas bancarias.md",
-    "musica/artistas/Rojuu.md",
-    "musica/albumes/Y3Y2.md",
-    "materias/diseño de sistemas.md",
-    "escritos/articulos/cambio.md",
-    "escritos/articulos/ensayo musica material.md",
-    "escritos/articulos/desconexión.md",
-    "materias/tde.md",
-    "escritos/articulos/virgilio.md",
+    "charlas/seguridad-lima.md",
+    "charlas/deforestacion-latam.md",
     "canvas/Untitled 1.canvas",
-    "variado/vocal chain ableton.md",
+    "canvas/Untitled.canvas",
     "rym.md",
-    "variado/términos-filosofía.md",
-    "variado/scaruffi.md",
-    "variado/rym.md",
+    "templates/autor-template.md",
+    "templates/artista-template.md",
+    "musica/artistas/Dillom.md",
+    "musica/artistas/Cartier God.md",
+    "musica/artistas/Black Kray.md",
+    "musica/artistas/Arca.md",
+    "lectura/autores/lewis-helen.md",
+    "lectura/autores/harari-yuval-noah.md",
+    "lectura/autores/godoy-alejandro.md",
+    "lectura/autores/caballero-victor.md",
+    "lectura/autores/brooks-michael.md",
+    "lectura/autores/bregman-rutger.md",
+    "lectura/autores/borges-jorge-luis.md",
+    "lectura/autores/acosta-christopher.md",
+    "cine/directores/alex-garland.md",
+    "materias/diseño de interacción",
     "materias/~syncthing~teología 2.sync-conflict-20230811-153233-GTZIR3D.md.tmp",
     "todos",
-    "canvas/Untitled.canvas",
     "daily-notes",
     "canvas",
     "materias/~syncthing~teología 2.md.tmp",
