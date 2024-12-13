@@ -1,9 +1,9 @@
 {
-  "baseFontSize": 16,
-  "cssTheme": "Things",
+  "baseFontSize": 13,
+  "cssTheme": "Blue Topaz",
   "theme": "system",
-  "textFontFamily": "Arial Narrow",
-  "interfaceFontFamily": "Arial Narrow",
+  "textFontFamily": "0xProto Nerd Font",
+  "interfaceFontFamily": "Inter",
   "accentColor": "",
-  "monospaceFontFamily": "Arial Narrow"
+  "monospaceFontFamily": "0xProto Nerd Font"
 }
